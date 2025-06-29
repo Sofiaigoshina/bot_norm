@@ -35,31 +35,32 @@
 
 ## Скриншоты работы бота
 
-Команда start, кнопки калькулятор и переводчик
+- Команда start, кнопки калькулятор и переводчик
 ![image](https://github.com/user-attachments/assets/d1460b6a-fdbb-45d3-a503-68f5818eea05)
 
-Команда /schedule
+- Команда /schedule
 ![image](https://github.com/user-attachments/assets/d74a2c99-ef99-48e6-a4be-3d784b53ba36)
 
-Команда /reminders
+- Команда /reminders
 ![image](https://github.com/user-attachments/assets/579ea854-49b6-453e-8eee-c181bff5db2a)
 
-Команда /support
+- Команда /support
 ![image](https://github.com/user-attachments/assets/2bb0d06c-4fe2-49a5-8d47-138655973f27)
 
-Команда /weather
+- Команда /weather
 ![image](https://github.com/user-attachments/assets/f52bc754-3564-4346-9841-0e200a4d56dc)
 
-Команда /recognize_text
+- Команда /recognize_text
 ![image](https://github.com/user-attachments/assets/71a2d703-ea5c-4e8f-883a-035fdd97369c)
 
-Кнопка "Калькулятор"
+- Кнопка "Калькулятор"
 ![image](https://github.com/user-attachments/assets/c0e7ad85-69fe-4be4-8764-c48ad3b74b78)
 
-Кнопка "Переводчик"
+- Кнопка "Переводчик"
 ![image](https://github.com/user-attachments/assets/4aacd644-01c2-491c-a48f-b19012a50343)
 
-Команда /chat
+- Команда /chat
+- 
 ![image](https://github.com/user-attachments/assets/e6d79ac7-006b-4fe5-8157-4bf0aa4dd2be)
 
 
